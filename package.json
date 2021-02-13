@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsdoc": "^3.6.6",
+    "jsdoc-template": "git+https://github.com/braintree/jsdoc-template.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
