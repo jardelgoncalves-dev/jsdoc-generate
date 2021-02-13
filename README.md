@@ -2,7 +2,7 @@
 This [repository](https://github.com/jardelgoncalves/jsdoc-generate) presents a way to generate the javascript code documentation on a static website.
 
 <div align="center">
-  <img width="100%" height="auto" src="./screenshot.png" alt="Screenshot of generated documentation" />
+  <img width="100%" height="auto" src="./static/screenshot.png" alt="Screenshot of generated documentation" />
 </div>
 
 ## prerequisites
